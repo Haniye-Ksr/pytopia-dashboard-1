@@ -11,6 +11,7 @@ Then, run the following command to start the export environment variables in mai
 source .env
 ```
 
+
 Run `export PYTHONPATH=${PWD}` to add the current directory to the python path.
 
 Build django migrations by running the following command:
